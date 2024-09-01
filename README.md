@@ -1,7 +1,9 @@
 # Steam Comments Collector
 
 > 项目源地址：[https://github.com/Chaobs/Steam-Comments-Collector](https://github.com/Chaobs/Steam-Comments-Collector)
+> 
 > 使用后发现只能爬取简体中文的评论，且仅能爬取 10 个评论
+> 
 > 在 [https://cloud.tencent.com/developer/article/1085988](https://cloud.tencent.com/developer/article/1085988) 中的评论发现了问题所在，故而做出修改
 
 这个脚本/爬虫用于收集特定的 Steam 游戏商店页面上的 **简体中文** / **English** 评价。  
